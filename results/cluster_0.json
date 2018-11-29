@@ -1,7 +1,43 @@
-[
-    "David spoke to Yahweh the words of this song in the day that Yahweh delivered him out of the hand of all his enemies, and out of the hand of Saul, and he said: \u201cYahweh is my rock, my fortress, and my deliverer, even mine; God is my rock in whom I take refuge; my shield, and the horn of my salvation, my high tower, and my refuge.",
-    "My soul, you have said to Yahweh, \u201cYou are my Lord.",
-    "Teach me to do your will, for you are my God.",
-    "For my eyes are on you, Yahweh, the Lord.",
-    "I said, \u201cMy God, don\u2019t take me away in the middle of my days."
-]
+{
+    "key_sentences": [
+        "Take that, and give it to them for me and you.\u201d",
+        "I said to you, \u201cI am Yahweh your God.",
+        "So it was done to them.",
+        "Is there a God besides me?",
+        "There is no god with me."
+    ],
+    "linking_sentences": {
+        "[0 1]": [
+            "Blessed are those who keep his statutes, who seek him with their whole heart.",
+            "You have commanded your precepts, that we should fully obey them.",
+            "Oh that my ways were steadfast to obey your statutes!"
+        ],
+        "[0 2]": [
+            "Let them be consigned to the king\u2019s chamberlain, the keeper of the women.",
+            "Let the woman who pleases the king be queen instead of Vashti.\u201d This thing pleased the king; and he did so.",
+            "And the matter was discovered by Mordecai, and he made it known to Esther, and she declared to the king the matter of the conspiracy."
+        ],
+        "[0 3]": [
+            "You shall eat, and not be satisfied.",
+            "Therefore the peoples shall give you thanks forever and ever.",
+            "If you\u00b0 be born, you\u00b0 shall be born to a curse; If you\u00b0 die, a curse shall be your portion."
+        ],
+        "[0 4]": [
+            "Why then will you sin against innocent blood, to kill David without a cause?\u201d Saul listened to the voice of Jonathan; and Saul swore, \u201cAs Yahweh lives, he shall not be put to death.\u201d Jonathan called David, and Jonathan showed him all those things.",
+            "Then Jonathan brought David to Saul, and he was in his presence as before.",
+            "An evil spirit from Yahweh was on Saul as he sat in his house with his spear in his hand; and David was playing music with his hand."
+        ],
+        "[0 5]": [
+            "Blessed are those whose ways are blameless, who walk according to Yahweh\u2019s law.",
+            "Do good to your servant.",
+            "Open my eyes, that I may see wondrous things out of your law."
+        ]
+    },
+    "topics": [
+        "man",
+        "like",
+        "let",
+        "soul",
+        "shall"
+    ]
+}

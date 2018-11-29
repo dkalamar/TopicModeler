@@ -1,7 +1,43 @@
-[
-    "For God is the King of all the earth.",
-    "the days come\u201d, says the Lord, \u201cthat I will make a new covenant with the house of Israel and with the house of Judah; not according to the covenant that I made with their fathers, in the day that I took them by the hand to lead them out of the land of Egypt; for they didn\u2019t continue in my covenant, and I disregarded them,\u201d says the Lord.",
-    "The righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.",
-    "The end of the fear of the Lord is wisdom.",
-    "In the multitude of people is the king\u2019s glory, but in the lack of people is the destruction of the prince."
-]
+{
+    "key_sentences": [
+        "This will be the token to you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain.\u201d Moses said to God, \u201cBehold, when I come to the children of Israel, and tell them, \u2018The God of your fathers has sent me to you,\u2019 and they ask me, \u2018What is his name?\u2019 what should I tell them?\u201d God said to Moses, \u201cI AM WHO I AM,\u201d and he said, \u201cYou shall tell the children of Israel this: \u2018I AM has sent me to you.\u2019\u00a0\u201d God said moreover to Moses, \u201cYou shall tell the children of Israel this, \u2018Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.\u2019 This is my name forever, and this is my memorial to all generations.",
+        "That same day, Yahweh brought the children of Israel out of the land of Egypt by their armies.",
+        "These are that Aaron and Moses to whom Yahweh said, \u201cBring out the children of Israel from the land of Egypt according to their armies.\u201d These are those who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt.",
+        "Yahweh spoke to Moses, saying, \u201cGo in, speak to Pharaoh king of Egypt, that he let the children of Israel go out of his land.\u201d Moses spoke before Yahweh, saying, \u201cBehold, the children of Israel haven\u2019t listened to me.",
+        "There you will serve other gods day and night, for I will show you no favor.\u2019 \u201cTherefore behold, the days come,\u201d says Yahweh, \u201cthat it will no more be said, \u2018As Yahweh lives, who brought up the children of Israel out of the land of Egypt;\u2019 but, \u2018As Yahweh lives, who brought up the children of Israel from the land of the north, and from all the countries where he had driven them.\u2019 I will bring them again into their land that I gave to their fathers."
+    ],
+    "linking_sentences": {
+        "[0 1]": [
+            "Blessed are those who keep his statutes, who seek him with their whole heart.",
+            "You have commanded your precepts, that we should fully obey them.",
+            "Oh that my ways were steadfast to obey your statutes!"
+        ],
+        "[1 2]": [
+            "It will wither in the beds where it grew.\u201d\u00a0\u2019\u00a0\u201d Moreover Yahweh\u2019s word came to me, saying, \u201cSay now to the rebellious house, \u2018Don\u2019t you know what these things mean?\u2019 Tell them, \u2018Behold, the king of Babylon came to Jerusalem, and took its king, and its princes, and brought them to him to Babylon.",
+            "\u201c\u00a0\u2018As I live,\u2019 says the Lord Yahweh, \u2018surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die.",
+            "Behold, I have listened to your voice and have granted your request.\u201d Abigail came to Nabal; and behold, he held a feast in his house like the feast of a king."
+        ],
+        "[1 3]": [
+            "It shall come to pass on the sixth day, that they shall prepare that which they bring in, and it shall be twice as much as they gather daily.\u201d Moses and Aaron said to all the children of Israel, \u201cAt evening, you shall know that Yahweh has brought you out from the land of Egypt.",
+            "Speak to them, saying, \u2018At evening you shall eat meat, and in the morning you shall be filled with bread.",
+            "Today you shall not find it in the field."
+        ],
+        "[1 4]": [
+            "Saul spoke to Jonathan his son and to all his servants, that they should kill David.",
+            "But Jonathan, Saul\u2019s son, greatly delighted in David.",
+            "David went out and fought with the Philistines, and killed them with a great slaughter; and they fled before him."
+        ],
+        "[1 5]": [
+            "By living according to your word.",
+            "I will live and I will obey your word.",
+            "I have remembered your name, Yahweh, in the night, and I obey your law."
+        ]
+    },
+    "topics": [
+        "land",
+        "people",
+        "children",
+        "shall",
+        "moses"
+    ]
+}
