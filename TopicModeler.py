@@ -113,6 +113,11 @@ class Clusterer:
         results['sentences'] = self.sentences
         return results.groupby('connections').apply(lambda y: y.sentences[:3].values)
 
+    def get_edges(self):
+        df = pd.DataFrame(self.cluster.transform(self.sent_sparse))
+        df = df.apply(lambda x: x.sort_values().head(2),1).fillna(0)
+        return df.apply(lambda x: tuple(df.columns[x.values>0]), 1)
+        
     def pair_sim(self,texts):
         vectors = self.vect.transform(texts)
         if self.is_tfidf:
@@ -139,7 +144,7 @@ class Clusterer:
 
 if __name__ == "__main__":
     print('\rInstiating...',end='')
-    c=Clusterer(6,False)
+    c=Clusterer(6)
     print('\rLoading Corpus...',end='')
     c.load_corpus('bible')
     print('\rFitting Models...',end='')
