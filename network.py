@@ -1,4 +1,4 @@
-from biblecluster import Clusterer
+from TopicModeler import Clusterer
 import networkx as nx
 from nameparser import HumanName
 import matplotlib.pyplot as plt
@@ -74,7 +74,7 @@ nx.draw_networkx_edges(G, pos,
 nx.draw_networkx_labels(G, pos, font_size=16, font_color='white')
 
 fig.set_facecolor("#262626")
-plt.savefig('graph2.png')
+plt.savefig('results/graph2.png')
 plt.show()
 		
 

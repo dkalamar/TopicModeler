@@ -22,7 +22,7 @@ class Clusterer:
         self.stats=dict()
 
     def _load_stops(self):
-        with open('stops.json','rb') as f:
+        with open('data/stops.json','rb') as f:
             self.stops=json.load(f)
         return self.stops
 
@@ -146,7 +146,7 @@ if __name__ == "__main__":
     print('\rInstiating...',end='')
     c=Clusterer(6)
     print('\rLoading Corpus...',end='')
-    c.load_corpus('bible')
+    c.load_corpus('data/bible')
     print('\rFitting Models...',end='')
     c.fit()
     print('\rAnalyzing...',end='')

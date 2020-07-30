@@ -8,6 +8,7 @@ __pycache__/
 
 #bible text
 eng-web_html/
+eng-web_html/*
 *.htm
 *.zip
 
